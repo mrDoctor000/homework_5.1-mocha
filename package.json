@@ -1,0 +1,25 @@
+{
+  "name": "homework_5.1-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrDoctor000/homework_5.1-mocha.git"
+  },
+  "author": "Ponomarev E.A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrDoctor000/homework_5.1-mocha/issues"
+  },
+  "homepage": "https://github.com/mrDoctor000/homework_5.1-mocha#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^5.0.1",
+    "supertest": "^3.0.0"
+  }
+}
